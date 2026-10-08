@@ -1,0 +1,1 @@
+Native LOS display: 300 sampled board frames, 100 rapid occupied-cell key presses, changed frames=0
