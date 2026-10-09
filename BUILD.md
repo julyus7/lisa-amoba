@@ -6,7 +6,7 @@ packages files; it does not compile the Pascal program.
 
 ## Requirements
 
-- Apple Lisa or LisaEm, with your own compatible ROM, Lisa Office System 3
+- Real Apple Lisa 2 (2/5 or 2/10), or LisaEm, with your own compatible ROM, Lisa Office System 3
   and Lisa Workshop 3 environment.
 - Workshop's LOS interface objects and runtime libraries, including the units
   named in the `uses` clauses and `IOSPASLIB.OBJ`, `SYS1LIB.OBJ`, `PRLIB.OBJ`.

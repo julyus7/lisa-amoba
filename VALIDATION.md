@@ -1,5 +1,15 @@
 # Recorded validation
 
+## Hardware target and test scope
+
+The program is a native Motorola 68000 application for Apple Lisa 2 hardware
+(Lisa 2/5 and Lisa 2/10) running Lisa Office System 3. The released tagged
+DC42 image can be written to a native Lisa floppy for use on those machines.
+The checks below were performed in LisaEm. No physical Lisa 2 hardware test
+is recorded in this release; emulator results are not a physical-hardware
+test result.
+
+
 These are results from the local development sessions in September–October
 2026. This publication reused the already tested final files; it did not run
 a new native compile or new emulator session.
