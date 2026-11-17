@@ -1,5 +1,13 @@
 # Amoba for Apple Lisa 2
 
+<!-- cover-art:start -->
+<p align="center">
+  <a href="artwork/cover-en.png"><img src="artwork/cover-en.png" width="320" alt="TIC-TAC-TOE — English cover"></a>
+  <a href="artwork/cover-hu.png"><img src="artwork/cover-hu.png" width="320" alt="AMŐBA — Magyar borító"></a>
+</p>
+<p align="center"><a href="artwork/cover-en.png">English cover</a> · <a href="artwork/cover-hu.png">Magyar borító</a></p>
+<!-- cover-art:end -->
+
 **Native game for real Apple Lisa 2 hardware running Lisa Office System 3,
 including Lisa 2/5 and Lisa 2/10.** The release contains a native Motorola
 68000 LOS application. LisaEm is also supported.
